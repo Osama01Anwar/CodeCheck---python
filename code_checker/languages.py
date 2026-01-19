@@ -1,0 +1,18 @@
+LANGUAGE_MAP = {
+    ".py": "Python",
+    ".dart": "Dart",
+    ".js": "JavaScript",
+    ".ts": "TypeScript",
+    ".java": "Java",
+    ".c": "C",
+    ".cpp": "C++",
+    ".h": "C/C++ Header",
+    ".cs": "C#",
+    ".go": "Go",
+    ".rs": "Rust",
+    ".php": "PHP",
+    ".rb": "Ruby",
+    ".sh": "Shell",
+    ".kt": "Kotlin",
+    ".swift": "Swift",
+}
